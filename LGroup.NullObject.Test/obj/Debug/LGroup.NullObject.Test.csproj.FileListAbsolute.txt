@@ -1,0 +1,11 @@
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Test\bin\Debug\LGroup.NullObject.Test.dll
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Test\bin\Debug\LGroup.NullObject.Test.pdb
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Test\bin\Debug\LGroup.NullObject.Business.dll
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Test\bin\Debug\LGroup.NullObject.DataTransferObject.dll
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Test\bin\Debug\nunit.framework.dll
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Test\bin\Debug\LGroup.NullObject.Business.pdb
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Test\bin\Debug\LGroup.NullObject.DataTransferObject.pdb
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Test\bin\Debug\nunit.framework.xml
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Test\obj\Debug\LGroup.NullObject.Test.csprojResolveAssemblyReference.cache
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Test\obj\Debug\LGroup.NullObject.Test.dll
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Test\obj\Debug\LGroup.NullObject.Test.pdb

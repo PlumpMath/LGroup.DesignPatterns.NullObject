@@ -1,0 +1,5 @@
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Business\bin\Debug\LGroup.NullObject.Business.dll
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Business\bin\Debug\LGroup.NullObject.Business.pdb
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Business\obj\Debug\LGroup.NullObject.Business.csprojResolveAssemblyReference.cache
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Business\obj\Debug\LGroup.NullObject.Business.dll
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.Business\obj\Debug\LGroup.NullObject.Business.pdb

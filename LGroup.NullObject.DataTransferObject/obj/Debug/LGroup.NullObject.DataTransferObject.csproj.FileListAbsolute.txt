@@ -1,0 +1,7 @@
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.DataTransferObject\bin\Debug\LGroup.NullObject.DataTransferObject.dll
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.DataTransferObject\bin\Debug\LGroup.NullObject.DataTransferObject.pdb
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.DataTransferObject\bin\Debug\LGroup.NullObject.Business.dll
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.DataTransferObject\bin\Debug\LGroup.NullObject.Business.pdb
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.DataTransferObject\obj\Debug\LGroup.NullObject.DataTransferObject.csprojResolveAssemblyReference.cache
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.DataTransferObject\obj\Debug\LGroup.NullObject.DataTransferObject.dll
+C:\Users\Erick Wendel\Desktop\LGroup.NullObject\LGroup.NullObject.DataTransferObject\obj\Debug\LGroup.NullObject.DataTransferObject.pdb
